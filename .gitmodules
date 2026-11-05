@@ -5,3 +5,6 @@
 [submodule "glpsol"]
 	path = glpsol
 	url = https://github.com/optimal2050/glpsol
+[submodule "nestedscales"]
+	path = nestedscales
+	url = https://github.com/optimal2050/nestedscales
